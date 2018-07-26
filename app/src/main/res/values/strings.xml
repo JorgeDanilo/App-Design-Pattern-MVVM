@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BreadListMVVM</string>
+    <string name="title_activity_breads">Breads</string>
+    <string name="action_settings">Settings</string>
+</resources>
